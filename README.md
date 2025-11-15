@@ -1,5 +1,5 @@
 #  Hello, I'm Ganesh Kumar Pun
-*IT Engineering Graduate | IT Enthusiast | Data Analyst
+IT Engineering Graduate | IT Enthusiast | Data Analyst
 
 ---
 
@@ -23,7 +23,7 @@ Hi! I’m a recent Information Technology graduate living in Kathmandu and eager
 
 ##  Core Skills
 
-- Programming: Python, JavaScript (MERN basics)
+- Programming: Python, JavaScript , C , C++ (  Basics )
 - Data Tools: Pandas, Matplotlib, Seaborn
 - Web: HTML, CSS, GitHub Pages, Jekyll
 - Version Control: Git, GitHub
@@ -66,9 +66,9 @@ Built and designed a personal website using GitHub Pages and Jekyll to highlight
 
 ##  Contact
 
-- LinkedIn: [https://www.linkedin.com/in/ganesh-pun-5353692a0/]
-- GitHub: [https://github.com/ganeshpun]
-- Email: [ganeshkumarpun2@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/ganesh-pun-5353692a0/
+- GitHub: https://github.com/ganeshpun
+- Email: ganeshkumarpun2@gmail.com
 
 ---
 
