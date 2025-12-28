@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Ganesh Kumar Pun
-
-**IT Engineering Graduate | IT Enthusiast **
+#  Hello, I'm Ganesh Kumar Pun
 
 ---
 
@@ -33,12 +31,6 @@ HTMLS/CSS | React | ASP.NET Core | node.js
 ### Data Tools
 Pandas | Matplotlib | Seaborn | Excel | NumPy  
 
-### Version Control
-Git | GitHub  
-
-### Platforms
-Windows | macOS | Beginner Linux  
-
 ---
 
 ## Projects
@@ -51,7 +43,6 @@ CAMPUSEASE | MEAN STACK
 - Developed a college automation system to streamline academic administration
 - Implemented student information management for accurate profiles, attendance tracking, and academic performance
 - Integrated online payment system for secure and convenient fee transactions
-- Enhanced operational efficiency, reduced errors, and improved overall user experience within the academic community
   
 STOCK TRADING PLATFORM | MERN STACK
 - Developed a web-based stock trading platform with features for buying, selling, and tracking stocks
